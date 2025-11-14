@@ -56,6 +56,8 @@ ul{
 
 ul li.item-menu:hover{
     background: #D39C13;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 
 ul li.item-menu{
@@ -64,6 +66,8 @@ ul li.item-menu{
 
 ul li.ativo{
     background-color: #D39C13;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 
 ul li.item-menu a{
